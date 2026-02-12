@@ -22,5 +22,13 @@
     "date": "2026-02-12",
     "published": true,
     "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/f26ac985-6b9f-4b4c-b1a8-343dfd44981b.jpg?t=1770912842067"
+  },
+  {
+    "id": "263cefa1-d89e-4294-854c-f2c41da41e81",
+    "title": "test9",
+    "excerpt": "test9",
+    "date": "2026-02-12",
+    "published": true,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/263cefa1-d89e-4294-854c-f2c41da41e81.jpg?t=1770913415493"
   }
 ]
