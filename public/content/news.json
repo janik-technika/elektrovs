@@ -1,23 +1,10 @@
 [
   {
-    "id": "demo-1",
-    "title": "Nová zakázka – elektroinstalace průmyslového objektu",
-    "excerpt": "Zahájili jsme kompletní elektroinstalaci nového výrobního závodu v Ostravě. Projekt zahrnuje silnoproud, slaboproud i hromosvody.",
-    "date": "2026-02-10",
-    "published": true
-  },
-  {
-    "id": "demo-2",
-    "title": "Rozšíření strojového parku o Kubota U56-5",
-    "excerpt": "Do naší nabídky zemních prací přibyl nový minirypadlo Kubota U56-5 o hmotnosti 5,6 tuny pro náročnější projekty.",
-    "date": "2026-02-05",
-    "published": true
-  },
-  {
-    "id": "demo-3",
-    "title": "Certifikace pro prostředí s nebezpečím výbuchu",
-    "excerpt": "Získali jsme oprávnění pro provádění elektromontáží v prostředí s nebezpečím výbuchu dle normy ČSN EN 60079.",
-    "date": "2026-01-20",
-    "published": true
+    "id": "e89afa97-b8f5-41e0-ae2a-f0f8b0065b9d",
+    "title": "test",
+    "excerpt": "test",
+    "date": "2026-02-12",
+    "published": true,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/e89afa97-b8f5-41e0-ae2a-f0f8b0065b9d.jpg?t=1770905989505"
   }
 ]
