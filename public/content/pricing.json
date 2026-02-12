@@ -19,33 +19,5 @@
     "weight": "5,6 t",
     "price": "1 120 Kč / hod",
     "order": 3
-  },
-  {
-    "id": "b3f943eb-a026-4be5-949c-2a23027b0f72",
-    "machine": "test5",
-    "weight": "",
-    "price": "",
-    "order": 4
-  },
-  {
-    "id": "c57c5075-2c60-4b52-8619-ff304d717aa5",
-    "machine": "test6",
-    "weight": "",
-    "price": "",
-    "order": 5
-  },
-  {
-    "id": "1d8afe27-54c8-4764-8fbc-0ba9f36e3c24",
-    "machine": "test8",
-    "weight": "",
-    "price": "",
-    "order": 6
-  },
-  {
-    "id": "8a9564a4-1e7c-43b2-9562-c652bdc67a0f",
-    "machine": "test9",
-    "weight": "1",
-    "price": "",
-    "order": 7
   }
 ]
