@@ -21,24 +21,10 @@
     "order": 3
   },
   {
-    "id": "4e05c5ad-8c1f-48a5-883f-fcdbe0d1d2ae",
+    "id": "73cde757-c2fa-4ff3-abcc-80111a037b09",
     "machine": "test",
     "weight": "",
     "price": "",
     "order": 4
-  },
-  {
-    "id": "d2c48fe0-ec69-428b-9b1a-a1e65242ea10",
-    "machine": "test2",
-    "weight": "",
-    "price": "",
-    "order": 5
-  },
-  {
-    "id": "316065d1-0285-4f7d-8082-1c9bad3fe666",
-    "machine": "test3",
-    "weight": "",
-    "price": "",
-    "order": 6
   }
 ]
