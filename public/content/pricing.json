@@ -21,31 +21,24 @@
     "order": 3
   },
   {
-    "id": "e0a3cb80-1f3d-4dc4-bcee-4edf62834234",
+    "id": "4e05c5ad-8c1f-48a5-883f-fcdbe0d1d2ae",
     "machine": "test",
-    "weight": "test",
-    "price": "test",
+    "weight": "",
+    "price": "",
     "order": 4
   },
   {
-    "id": "ef492f3b-7970-46da-9b45-a212ffa9ef0a",
+    "id": "d2c48fe0-ec69-428b-9b1a-a1e65242ea10",
     "machine": "test2",
-    "weight": "test",
+    "weight": "",
     "price": "",
     "order": 5
   },
   {
-    "id": "bb2115d5-5e13-4ed8-8ca9-2c00f3ec3c82",
+    "id": "316065d1-0285-4f7d-8082-1c9bad3fe666",
     "machine": "test3",
-    "weight": "12t",
-    "price": "1000",
-    "order": 6
-  },
-  {
-    "id": "54e98440-25c0-4222-83e0-58a20ef9665d",
-    "machine": "test5",
-    "weight": "test5",
+    "weight": "",
     "price": "",
-    "order": 7
+    "order": 6
   }
 ]
