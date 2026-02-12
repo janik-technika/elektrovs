@@ -40,5 +40,12 @@
     "weight": "12t",
     "price": "1000",
     "order": 6
+  },
+  {
+    "id": "03985d9c-b6e6-4ae7-82cb-6d50c6917643",
+    "machine": "test4",
+    "weight": "test",
+    "price": "",
+    "order": 7
   }
 ]
