@@ -1,42 +1,9 @@
 [
   {
-    "id": "1db51585-7e40-4ec6-9fc1-e92ea8601161",
-    "title": "test3",
+    "id": "4f9e92e6-3a43-4585-897d-510ff31185c9",
+    "title": "",
     "excerpt": "",
     "date": "2026-02-12",
-    "published": true,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/1db51585-7e40-4ec6-9fc1-e92ea8601161.jpg?t=1770907633462"
-  },
-  {
-    "id": "6e171133-f04f-4cea-a618-3ca09b116f2a",
-    "title": "test2",
-    "excerpt": "",
-    "date": "2026-02-12",
-    "published": true,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/6e171133-f04f-4cea-a618-3ca09b116f2a.jpg?t=1770908443763"
-  },
-  {
-    "id": "f26ac985-6b9f-4b4c-b1a8-343dfd44981b",
-    "title": "test3",
-    "excerpt": "test3",
-    "date": "2026-02-12",
-    "published": true,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/f26ac985-6b9f-4b4c-b1a8-343dfd44981b.jpg?t=1770912842067"
-  },
-  {
-    "id": "263cefa1-d89e-4294-854c-f2c41da41e81",
-    "title": "test9",
-    "excerpt": "test9",
-    "date": "2026-02-12",
-    "published": true,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/263cefa1-d89e-4294-854c-f2c41da41e81.jpg?t=1770913415493"
-  },
-  {
-    "id": "0935e1ec-d4fb-485e-aba3-c12d4b5c6ad8",
-    "title": "test20",
-    "excerpt": "ni",
-    "date": "2026-02-12",
-    "published": true,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/janik-technika/elektrovs@main/public/content/uploads/news/0935e1ec-d4fb-485e-aba3-c12d4b5c6ad8.jpg?t=1770913566809"
+    "published": true
   }
 ]
