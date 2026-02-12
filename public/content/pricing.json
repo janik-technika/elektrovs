@@ -33,5 +33,12 @@
     "weight": "test",
     "price": "",
     "order": 5
+  },
+  {
+    "id": "bb2115d5-5e13-4ed8-8ca9-2c00f3ec3c82",
+    "machine": "test3",
+    "weight": "12t",
+    "price": "1000",
+    "order": 6
   }
 ]
