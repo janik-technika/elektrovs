@@ -33,5 +33,12 @@
     "weight": "",
     "price": "",
     "order": 5
+  },
+  {
+    "id": "fae7a494-af01-41e8-acbd-ac92eac5bf2d",
+    "machine": "test3",
+    "weight": "",
+    "price": "",
+    "order": 6
   }
 ]
