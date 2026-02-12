@@ -22,9 +22,16 @@
   },
   {
     "id": "e0a3cb80-1f3d-4dc4-bcee-4edf62834234",
-    "machine": "test",
+    "machine": "tttttttt",
     "weight": "test",
     "price": "test",
     "order": 4
+  },
+  {
+    "id": "8d26e636-e498-409e-ae46-2cacd5e0efbc",
+    "machine": "11111",
+    "weight": "111",
+    "price": "11",
+    "order": 5
   }
 ]
